@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-20",
-  "build": 20,
-  "url": "https://github.com/Fablia/fablia-app-updates/releases/download/n1-017790a0f7c1-1.0.0-20/bundle.zip",
-  "checksum": "31530d08e6f64839ac335cd70dc9777d4421739449164aa1d48b51b9b55bae4d",
-  "commit": "1c375dea7c2b9a21f6b80ba7ed6a6cc406ff13d4",
-  "publishedAt": "2026-10-26T21:13:39Z"
+  "version": "1.0.0-21",
+  "build": 21,
+  "url": "https://github.com/Fablia/fablia-app-updates/releases/download/n1-017790a0f7c1-1.0.0-21/bundle.zip",
+  "checksum": "cdb30d66f28a44ce94b19842b7645c10096ef34ac87d91358f75445c965af70a",
+  "commit": "9255b9c95f492844563764c5e43b166b4ddcc017",
+  "publishedAt": "2026-10-26T21:41:25Z"
 }
